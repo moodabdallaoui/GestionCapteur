@@ -1,6 +1,6 @@
 # GestionCapteurs
 
-A .NET Core Web API project for managing sensors (Capteurs) with support for API versioning, caching, and robust error handling.
+A .NET Core Web API project for managing Capteurs with support for API versioning, caching, and robust error handling.
 
 ## Features
 
